@@ -20,6 +20,7 @@ PS C:\Users\0618h\git_challenge> git commit -m "hello_world.txtを追加"
 PS C:\Users\0618h\git_challenge> git status
 On branch main
 nothing to commit, working tree clean
+PS C:\Users\0618h\git_challenge> echo "こんにちは、世界！" >> hello_world.txt
 PS C:\Users\0618h\git_challenge> git add hello_world.txt
 PS C:\Users\0618h\git_challenge> git commit -m "日本語訳を追記"       
 [main 9c396a9] 日本語訳を追記
